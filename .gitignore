@@ -1,0 +1,4 @@
+db.db
+.env
+venv/
+__pychache__/
